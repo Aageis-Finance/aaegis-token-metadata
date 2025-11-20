@@ -2,7 +2,7 @@
   "name": "AGSUSD",
   "symbol": "AGSUSD",
   "description": "AGSUSD is a decentralized stablecoin backed by SOL collateral, part of the Aaegis Finance protocol on Solana. AGSUSD maintains a 1:1 peg with USD through an over-collateralized vault system.",
-  "image": "https://app-aaegis-protocol.vercel.app/logo-mark-protocol.svg",
+  "image": "https://raw.githubusercontent.com/Aageis-Finance/aaegis-token-metadata/refs/heads/main/aaegis-protocol.png",
   "external_url": "https://app-aaegis-protocol.vercel.app",
   "attributes": [
     {
@@ -31,7 +31,7 @@
     }
   ],
   "properties": {
-    "category": "token",
+    "category": "image",
     "creators": [
       {
         "address": "Aaegis Finance Protocol",
@@ -40,8 +40,8 @@
     ],
     "files": [
       {
-        "uri": "https://app-aaegis-protocol.vercel.app/logo-mark-protocol.svg",
-        "type": "image/svg+xml"
+        "uri": "https://raw.githubusercontent.com/Aageis-Finance/aaegis-token-metadata/refs/heads/main/aaegis-protocol.png",
+        "type": "image/png"
       }
     ]
   }
