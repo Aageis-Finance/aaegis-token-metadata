@@ -1,40 +1,50 @@
 {
   "name": "AGSUSD",
   "symbol": "AGSUSD",
-  "description": "AGSUSD is a decentralized stablecoin backed by SOL collateral, part of the Aaegis Finance protocol on Solana. AGSUSD maintains a 1:1 peg with USD through an over-collateralized vault system.",
+  "description": "AGSUSD is a decentralized, over-collateralized USD-pegged stablecoin backed by SOL collateral on the Aaegis Finance Protocol. Designed for stability, transparency, and seamless DeFi integration on Solana.",
   "image": "https://raw.githubusercontent.com/Aageis-Finance/aaegis-token-metadata/refs/heads/main/aaegis-protocol.png",
   "external_url": "https://app-aaegis-protocol.vercel.app",
   "attributes": [
     {
-      "trait_type": "Type",
+      "trait_type": "Token Type",
       "value": "Stablecoin"
-    },
-    {
-      "trait_type": "Collateral",
-      "value": "SOL"
     },
     {
       "trait_type": "Protocol",
       "value": "Aaegis Finance"
     },
     {
-      "trait_type": "Network",
-      "value": "Solana"
+      "trait_type": "Collateral",
+      "value": "SOL"
     },
     {
       "trait_type": "Peg",
       "value": "USD"
     },
     {
+      "trait_type": "Network",
+      "value": "Solana"
+    },
+    {
       "trait_type": "Decimals",
       "value": "6"
     }
   ],
+  "extensions": {
+    "website": "https://aageis.finance",
+    "app": "https://app-aaegis-protocol.vercel.app",
+    "twitter": "https://x.com/aaegis_finance",
+    "github": "https://github.com/Aageis-Finance",
+    "whitepaper": "https://github.com/Aageis-Finance/aaegis-whitepaper",
+    "telegram": "https://t.me/aaegisfi",
+    "email": "aageis.finance@gmail.com",
+    "explorer": "https://explorer.solana.com/address/97VjiAFgqXChCayQUfXAYvUyyEkiJt57yJmSFMT69Sqf?cluster=devnet"
+  },
   "properties": {
-    "category": "image",
+    "category": "token",
     "creators": [
       {
-        "address": "Aaegis Finance Protocol",
+        "address": "Aaegis Finance Official",
         "share": 100
       }
     ],
